@@ -1,4 +1,4 @@
-package com.laioffer.jupiter.db;
+package com.proj.jupiter.db;
 
 import java.io.IOException;
 import java.io.InputStream;
