@@ -1,4 +1,4 @@
-package com.laioffer.jupiter.db;
+package com.proj.jupiter.db;
 
 public class MySQLException extends RuntimeException {
     public MySQLException(String errorMessage) {
