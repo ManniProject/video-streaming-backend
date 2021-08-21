@@ -1,8 +1,8 @@
-package com.laioffer.jupiter.db;
+package com.proj.jupiter.db;
 
-import com.laioffer.jupiter.entity.Item;
-import com.laioffer.jupiter.entity.ItemType;
-import com.laioffer.jupiter.entity.User;
+import com.proj.jupiter.entity.Item;
+import com.proj.jupiter.entity.ItemType;
+import com.proj.jupiter.entity.User;
 
 import java.sql.*;
 import java.util.*;
